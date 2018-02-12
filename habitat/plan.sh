@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=sdelfante
+pkg_origin=sdelfante-feb
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
